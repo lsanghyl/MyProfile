@@ -1,10 +1,10 @@
 [en]
     label  = "English"
-    title  = "Hugo Theme Stack"
+    title = "이상현의 개발 기록"
     weight = 1
 
     [en.params.sidebar]
-        subtitle = "Card-style Hugo theme designed for bloggers"
+        subtitle = "배우고, 만들고, 기록합니다."
 
 [zh]
     label  = "简体中文"

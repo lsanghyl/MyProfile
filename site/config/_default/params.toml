@@ -6,8 +6,8 @@ favicon        = "img/avatar.png"
     since = 2020
 
 [sidebar]
-    emoji    = "✏️"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    emoji = "💻"
+    subtitle = "배우고, 만들고, 기록합니다."
     avatar   = "img/avatar.png"
 
 [article]
