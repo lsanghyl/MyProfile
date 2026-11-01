@@ -8,7 +8,7 @@ favicon        = "img/avatar.png"
 [sidebar]
     emoji = "💻"
     subtitle = "배우고, 만들고, 기록합니다."
-    avatar   = "img/avatar.png"
+    avatar = "img/avatar-new.png"
 
 [article]
     [article.license]
