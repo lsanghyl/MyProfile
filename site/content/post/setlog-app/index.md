@@ -3,7 +3,7 @@ title: "SetLog 스타일 Android 애플리케이션 개발"
 description: "일상의 순간을 기록하고 친구들과 공유하는 모바일 앱"
 date: 2026-11-03
 draft: false
-image: "cover.png"
+image: "cover2.png"
 categories:
     - Projects
 tags:
