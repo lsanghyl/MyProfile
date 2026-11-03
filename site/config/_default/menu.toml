@@ -5,3 +5,12 @@
 
     [social.params]
         icon = "brand-github"
+
+[[main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/categories/projects/"
+    weight = 20
+
+    [main.params]
+        icon = "categories"
