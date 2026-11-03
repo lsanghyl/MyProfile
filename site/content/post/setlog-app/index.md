@@ -3,6 +3,7 @@ title: "SetLog 스타일 Android 애플리케이션 개발"
 description: "일상의 순간을 기록하고 친구들과 공유하는 모바일 앱"
 date: 2026-11-03
 draft: false
+image: "cover.png"
 categories:
     - Projects
 tags:
@@ -84,3 +85,11 @@ Android 애플리케이션의 화면 구성과 Activity 간 이동, Firebase를 
 특히 여러 사용자가 데이터를 공유하는 서비스를 구현하면서 데이터 구조와 사용자별 접근 방식의 중요성을 이해할 수 있었습니다.
 
 앞으로는 사용자 경험을 개선하고, 더욱 안정적인 데이터 관리 기능을 갖춘 모바일 애플리케이션을 개발하고 싶습니다.
+
+### 로그인 화면
+
+![SetLog 로그인 화면](login.png)
+
+### 친구들의 순간 보기
+
+![SetLog 친구 피드 화면](feed.png)
