@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "자기소개"
 description: "개발과 새로운 기술을 배우는 과정"
 date: 2026-10-30
 menu:

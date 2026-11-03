@@ -8,7 +8,7 @@
 
 [[main]]
     identifier = "projects"
-    name = "Projects"
+    name = "프로젝트"
     url = "/categories/projects/"
     weight = 20
 
