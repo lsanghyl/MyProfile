@@ -1,31 +1,8 @@
-[en]
-    label  = "English"
-    title = "이상현의 개발 기록"
+[ko]
+    languageName = "한국어"
+    languageCode = "ko-KR"
     weight = 1
+    title = "이상현의 개발 기록"
 
-    [en.params.sidebar]
+    [ko.params.sidebar]
         subtitle = "배우고, 만들고, 기록합니다."
-
-[zh]
-    label  = "简体中文"
-    title  = "Hugo 主题 Stack"
-    weight = 2
-
-    [zh.params.sidebar]
-        subtitle = "为博客设计的卡片式 Hugo 主题"
-
-[zh-hant-tw]
-    label  = "正體中文"
-    title  = "Hugo 主題 Stack"
-    weight = 3
-
-    [zh-hant-tw.params.sidebar]
-        subtitle = "為博客設計的卡片式 Hugo 主題"
-
-[ja]
-    label  = "日本語"
-    title  = "Hugo Theme Stack"
-    weight = 4
-
-    [ja.params.sidebar]
-        subtitle = "ブログ用のカードスタイルの Hugo テーマ"
