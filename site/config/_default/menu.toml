@@ -1,3 +1,11 @@
+[[main]]
+    identifier = "home"
+    name = "홈"
+    url = "/"
+    weight = 10
+
+    [main.params]
+        icon = "home"
 [[social]]
     identifier = "github"
     name       = "GitHub"
